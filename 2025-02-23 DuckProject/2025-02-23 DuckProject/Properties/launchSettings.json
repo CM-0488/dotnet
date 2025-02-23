@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "2025-02-23 DuckProject": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
